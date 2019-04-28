@@ -18,10 +18,10 @@ Final project for the Udacity Full Stack Web Developer's Nanodegree
 ## Login Instructions for user 'grader'
  
 - SSH port: 2200  
-- URL: http://35.154.1.203  
+- URL: http://13.233.179.166  
 - Password: sudo
 - phrase sudo123
-- Login using this command: `ssh -i grader_key -p 2200 grader@35.154.1.203`
+- Login using this command: `ssh -i grader_key -p 2200 grader@13.233.179.166`
 
 ## Software Installed
 
